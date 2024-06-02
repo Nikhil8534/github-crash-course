@@ -20,3 +20,8 @@ function feature_b () {
 
   console.log('Feature b');
 }
+
+function feature_c () {
+
+  console.log('Feature c');
+}
