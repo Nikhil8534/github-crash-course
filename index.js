@@ -24,4 +24,6 @@ function feature_b () {
 function feature_c () {
 
   console.log('Feature c');
+  console.log('Feature c 2');
+  
 }
