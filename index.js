@@ -25,5 +25,6 @@ function feature_c () {
 
   console.log('Feature c');
   console.log('Feature c 2');
-  
+  console.log('Feature c 3');
+
 }
