@@ -9,3 +9,8 @@ function sayName() {
 function isAbove18() {
   return age > 18;
 }
+
+function luvkush_feature () {
+
+   console.log('Luvkush feature');
+}
