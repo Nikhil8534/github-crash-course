@@ -15,3 +15,8 @@ function luvkush_feature () {
    console.log('Luvkush feature');
    console.log('Luvkush feature 2');
 }
+
+function feature_b () {
+
+  console.log('Feature b');
+}
